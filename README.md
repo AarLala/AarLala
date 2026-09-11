@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm <strong>Aarav Lala</strong></h1>
-<h3 align="center">Cited Machine Learning Researcher • Building Energy-Efficient Intelligent Systems</h3>
 
 <p align="center">
   Passionate about algorithmic efficiency, multi-objective optimization, and pushing the boundaries of aligned, resource-conscious AI systems.
